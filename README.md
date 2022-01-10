@@ -53,6 +53,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Warmer Fleischkäs](https://www.youtube.com/watch?v=uCTcfbVI32A)
+- [NES HAUL | Fashion, News, Essen](https://www.youtube.com/watch?v=qfXCkGDi0kQ)
+- [HOW I EAT AN OREO | Tutorial](https://www.youtube.com/watch?v=UT33Hpt5_Fg)
+- [SPAR HAUL | Urlaub Edition](https://www.youtube.com/watch?v=lAomqHbFSBw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCBHDhrnJn-cGzXaYBXqAJZg)
