@@ -1,7 +1,7 @@
 ### Hi, I'm Jan Wöde - aka [ErikMast3r][website] 👋 
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=jan-woede.de&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fjan-woede.de)](https://jan-woede.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/akratasch_09?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FErikMast3r&screen_name=akratasch_09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akratasch_09?color=%2300acee&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FErikMast3r&screen_name=akratasch_09)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
