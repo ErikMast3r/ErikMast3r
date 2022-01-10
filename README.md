@@ -80,12 +80,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMast3r)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMast3r)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jan-woede.de
 [twitter]: https://twitter.com/akratasch_09
