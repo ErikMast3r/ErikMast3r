@@ -77,7 +77,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMast3r&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMast3r&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jan-woede.de
 [twitter]: https://twitter.com/akratasch_09
